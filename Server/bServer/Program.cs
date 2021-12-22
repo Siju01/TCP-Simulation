@@ -78,7 +78,7 @@ namespace Server
             public void writeMessage(string message)
             {
                 saveMessages.Add(message);
-                File.WriteAllLines("D:/Pens/Semester 4/Arsitektur Jaringan & Komputer/FP MultiCLient/chats.txt", saveMessages);
+                File.WriteAllLines("D:/Pens/Semester 5/Pemrograman Jaringan Komputer/TCP Simulation/Server/chats.txt", saveMessages);
             }
         }
 

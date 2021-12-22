@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Pens\\Semester 4\\Arsitektur Jaringan & Komputer\\FP MultiCLient\\bServer\\bServer\\bServer.csproj": {}
+    "C:\\Pens\\Semester 5\\Pemrograman Jaringan Komputer\\TCP Simulation\\Client\\bClient\\bClient.csproj": {}
   },
   "projects": {
-    "C:\\Pens\\Semester 4\\Arsitektur Jaringan & Komputer\\FP MultiCLient\\bServer\\bServer\\bServer.csproj": {
+    "C:\\Pens\\Semester 5\\Pemrograman Jaringan Komputer\\TCP Simulation\\Client\\bClient\\bClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Pens\\Semester 4\\Arsitektur Jaringan & Komputer\\FP MultiCLient\\bServer\\bServer\\bServer.csproj",
-        "projectName": "bServer",
-        "projectPath": "C:\\Pens\\Semester 4\\Arsitektur Jaringan & Komputer\\FP MultiCLient\\bServer\\bServer\\bServer.csproj",
+        "projectUniqueName": "C:\\Pens\\Semester 5\\Pemrograman Jaringan Komputer\\TCP Simulation\\Client\\bClient\\bClient.csproj",
+        "projectName": "bClient",
+        "projectPath": "C:\\Pens\\Semester 5\\Pemrograman Jaringan Komputer\\TCP Simulation\\Client\\bClient\\bClient.csproj",
         "packagesPath": "C:\\Users\\SIJU\\.nuget\\packages\\",
-        "outputPath": "C:\\Pens\\Semester 4\\Arsitektur Jaringan & Komputer\\FP MultiCLient\\bServer\\bServer\\obj\\",
+        "outputPath": "C:\\Pens\\Semester 5\\Pemrograman Jaringan Komputer\\TCP Simulation\\Client\\bClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SIJU\\AppData\\Roaming\\NuGet\\NuGet.Config",
